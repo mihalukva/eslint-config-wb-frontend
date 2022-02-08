@@ -1,7 +1,11 @@
 {
   "name": "eslint-config-wb-frontend",
-  "version": "1.0.0",
+  "version": "0.1.3",
   "description": "",
+  "author": {
+    "name": "Mihaluk Vladimir",
+    "email": "mihalukva@ya.ru"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,6 +34,5 @@
     "eslint",
     "eslintconfig"
   ],
-  "author": "",
   "license": "ISC"
 }
